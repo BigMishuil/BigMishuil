@@ -1,0 +1,51 @@
+# Welcome 👋
+
+![](https://komarev.com/ghpvc/?username=BigMishuil)
+
+## About Me 🔥
+✌️ My name is Michael and I'm Backend Developer
+
+👩‍💻I like writing code and getting new knowledge about IT
+
+😄In my free time I like to do sports
+
+
+## Connect with me:
+
+
+
+[<img align="left" alt="BigMishuil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="left" alt="BigMishuil | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+
+<br />
+
+
+
+## Languages and Tools:
+
+
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+
+<br />
+<br />
+
+
+
+
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigMishuil&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BigMishuil&show_icons=true" />
+</details>
+
+
+
+[instagram]: https://www.instagram.com/dumb.meytt/
+[vk]: https://vk.com/prettymeyt
