@@ -31,7 +31,7 @@
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/pycharm/pycharm.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f31ecd8b034658fd5b1dd40aa16614767aeaa9ee/logos/python.svg" />
 <img align="left" alt="Django" width="60px" src="https://raw.githubusercontent.com/django/djangoproject.com/f28c21b63ca7e5a4d37572293e92e9231cff731c/djangoproject/static/img/logo-django.svg" />
-<img align="left" alt="MySql" width="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/f31ecd8b034658fd5b1dd40aa16614767aeaa9ee/logos/mysql.svg" />
+
 
 
 <br />
