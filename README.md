@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=BigMishuil)
 
 ## About Me 🔥
-✌️ My name is Michael and I'm Backend Developer
+✌️ My name is Michael and I'm Python Backend Developer
 
 👩‍💻I like writing code and getting new knowledge about IT
 
