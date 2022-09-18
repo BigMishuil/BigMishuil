@@ -5,7 +5,7 @@
 ## About Me 🔥
 ✌️ My name is Michael and I'm Python Backend Developer
 
-👩‍💻I like writing code and getting new knowledge about IT
+👩‍💻I LOVE CODING
 
 😄In my free time I like to do sports
 
