@@ -11,22 +11,7 @@
 
 
 ## Connect with me:
++ 🔥 [Instagram](https://www.instagram.com/dumb.meytt/)
++ 💬 [Vk](https://vk.com/prettymeyt)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[instagram]: https://www.instagram.com/dumb.meytt/
-[vk]: https://vk.com/prettymeyt
 
